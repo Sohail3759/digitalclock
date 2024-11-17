@@ -54,3 +54,15 @@
     text-align: center;
     font-size: 30px;
 }
+
+.semi-colon{
+    text-align: center;
+    color: #ffffff !important;
+    /* background-color: #f9f7f7; */
+    height: 20px;
+    width: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size: 300%;
+
+}
